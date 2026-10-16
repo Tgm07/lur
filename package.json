@@ -1,0 +1,1 @@
+{"name":"lyric-stage-web","private":true,"version":"0.1.0","scripts":{"start":"node server.cjs"},"dependencies":{"@supabase/supabase-js":"^2.118.0","esbuild":"^0.28.2"}}
